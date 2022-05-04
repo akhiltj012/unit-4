@@ -1,0 +1,9 @@
+.screen{
+    width:300px;
+    height:500px;
+    overflow: scroll;
+    scroll-margin:1px;
+    scroll-behavior: smooth;
+    margin: auto;
+
+}

@@ -1,0 +1,14 @@
+.lineThrough{
+    text-decoration: line-through;
+    display:flex;
+    justify-content: center;
+    margin-left: 200px;
+
+}
+
+.flex{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    margin:auto
+}
