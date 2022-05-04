@@ -1,0 +1,20 @@
+.card{
+
+    border:solid 1px;
+    display:flex;
+    justify-content: space-between;
+   
+    width:500px
+}
+.right-side>h1{
+  margin-top: 200px;
+}
+.right-side{
+   justify-content: space-evenly; 
+}
+img{
+  
+    height: 50px;
+    width:50px,
+    
+}
