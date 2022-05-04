@@ -1,0 +1,35 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "username": "aa",
+      "age": "12345",
+      "address": "123456",
+      "salary": "2345",
+      "MaritalStatus": "S"
+    },
+    {
+      "id": 2,
+      "username": "Arun",
+      "age": "26",
+      "address": "Mappilakkuniyil House, Muthassikunnu, Wandoor,Malappuram Kerala",
+      "salary": "100000",
+      "MaritalStatus": "S"
+    },
+    {
+      "id": 3,
+      "username": "asdfgh",
+      "age": "23",
+      "address": "33",
+      "salary": "33"
+    },
+    {
+      "id": 4,
+      "username": "Arunrajmk",
+      "age": "26",
+      "address": "Mappilakkuniyil House, Muthassikunnu, Wandoor,Malappuram Kerala",
+      "salary": "100000",
+      "MaritalStatus": "Single"
+    }
+  ]
+}

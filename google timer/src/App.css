@@ -1,0 +1,71 @@
+.App {
+  border:1px solid;
+  text-align: center;
+  height:205px;
+  width:400px;
+  margin:auto;
+  margin-top:200px;
+  border-radius: 8px;
+}
+
+
+.top{
+  border:1px solid;
+  height:40px;
+  display:flex;
+}
+
+.left{
+  border:1px solid;
+  height:40px;
+  width:200px;
+
+}
+
+.right{
+  border:1px solid;
+  height:40px;
+  width:200px;
+}
+.mid{
+  border:1px solid; 
+  height:120px;
+}
+.bottom{
+  border:1px solid;
+  height:40px;
+  display:flex;
+  justify-content: space-between;
+}
+
+.bottom-left-main{
+
+  width:130px;
+  display:flex;
+}
+
+.bottom-left{
+  border:1px solid;
+  width:60px;
+  height:20px;
+  margin: auto;
+}
+.bottom-right{
+  border:1px solid;
+  width:60px;
+  height:20px;
+  margin: auto;
+
+}
+
+.bottom-right-main{
+  border:1px solid;
+  width:60px;
+  display:flex;
+ margin-left:340px;
+
+}
+
+.th{
+  margin-top: 10px;
+}

@@ -1,0 +1,12 @@
+.grid{
+   color:red;
+}
+
+.main{
+    display:grid;
+    grid-template-columns:repeat(5, 1fr);
+}
+
+.table, th, td {
+    border:1px solid black;
+  }
