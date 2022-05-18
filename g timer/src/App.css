@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  padding-top: 100px;
+  justify-content: center;
+  display: flex;
+  margin-left: 50px;
+}
+.App button{
+  justify-content: center;
+}
+
+.timer{
+  border: solid red;
+  height: 300px;
+  width: 400px;
+}
+.stop{
+  border: solid red;
+  height: 300px;
+  width: 400px;
+}
+.h{
+  justify-content: center;
+  display: flex;
+ 
+}
